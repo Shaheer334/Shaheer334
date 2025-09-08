@@ -25,7 +25,7 @@ Senior Backend Engineer
 ![Followers](https://img.shields.io/github/followers/shaheer334?label=Followers&style=flat&v=1)
 ![Stars](https://img.shields.io/github/stars/shaheer334?label=Total%20Stars&style=flat&v=1)</br>
 </br> 
-[![](https://visitcount.itsvg.in/api?id=amelulmulk&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=amelulmulk&icon=0&color=0)](https://visitcount.itsvg.in)
 </br>
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheer334&theme=github-compact&hide_border=true&v=1)</br>
 ![Stats](https://github-readme-stats-seven-inky-61.vercel.app/api?username=shaheer334&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2)<br/>
