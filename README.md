@@ -19,7 +19,6 @@ Senior Backend Engineer
 ![Cloud%20Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS%20Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=black)
 ![Google%20Cloud%20Functions](https://img.shields.io/badge/Google%20Cloud%20Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Amazon%20S3](https://img.shields.io/badge/Amazon%20S3-569)
 
 # 📊 GitHub Stats:
 ![Profile Views](https://komarev.com/ghpvc/?username=shaheer334&style=flat&color=blue&label=Profile%20views&v=1)
