@@ -1,5 +1,5 @@
 # 💫 About Me:
-      Senior Backend Engineer
+<b>Senior Backend Engineer</b>
 
 
 # 💻 Tech Stack:
