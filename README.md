@@ -28,6 +28,9 @@ Senior Backend Engineer
 [![](https://visitcount.itsvg.in/api?id=amelulmulk&icon=0&color=0)](https://visitcount.itsvg.in)
 </br>
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheer334&theme=github-compact&hide_border=true&v=1)</br>
+</br> 
+[![](https://visitcount.itsvg.in/api?id=amelulmulk&icon=0&color=0)](https://visitcount.itsvg.in)
+</br>
 ![Stats](https://github-readme-stats-seven-inky-61.vercel.app/api?username=shaheer334&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=shaheer334&theme=dark)<br/>
 ![Top Langs](https://github-readme-stats-seven-inky-61.vercel.app/api/top-langs/?username=shaheer334&layout=compact&theme=dark&v=2)</br>
