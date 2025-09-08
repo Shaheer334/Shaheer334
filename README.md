@@ -27,7 +27,7 @@
 ![Stars](https://img.shields.io/github/stars/shaheer334?label=Total%20Stars&style=flat&v=1)</br>
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheer334&theme=github-compact&hide_border=true&v=1)</br>
 ![Stats](https://github-readme-stats-seven-inky-61.vercel.app/api?username=shaheer334&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=shaheer334&theme=dark)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shaheer334&theme=dark&hide_border=false&v=1)](https://streak-stats.demolab.com)<br/>
 ![Top Langs](https://github-readme-stats-seven-inky-61.vercel.app/api/top-langs/?username=shaheer334&layout=compact&theme=dark&v=2)</br>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shaheer334&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&v=1)
 
