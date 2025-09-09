@@ -26,7 +26,6 @@
 ![Stats](https://github-readme-stats-seven-inky-61.vercel.app/api?username=shaheerzeb&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shaheerzeb&theme=dark&hide_border=false&v=1)](https://streak-stats.demolab.com)<br/>
 ![Top Langs](https://github-readme-stats-seven-inky-61.vercel.app/api/top-langs/?username=shaheerzeb&layout=compact&theme=dark&v=2)</br>
-![Trophies](https://github-profile-trophy.vercel.app/?username=shaheerzeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&v=1)
 
 
 ---
