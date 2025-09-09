@@ -22,9 +22,6 @@
 ![Google%20Cloud%20Functions](https://img.shields.io/badge/Google%20Cloud%20Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 # 📊 GitHub Stats:
-![Profile Views](https://komarev.com/ghpvc/?username=shaheerzeb&style=flat&color=blue&label=Profile%20views&v=1)
-![Followers](https://img.shields.io/github/followers/shaheerzeb?label=Followers&style=flat&v=1)
-![Stars](https://img.shields.io/github/stars/shaheerzeb?label=Total%20Stars&style=flat&v=1)</br>
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerzeb&theme=github-compact&hide_border=true&v=1)</br>
 ![Stats](https://github-readme-stats-seven-inky-61.vercel.app/api?username=shaheerzeb&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shaheerzeb&theme=dark&hide_border=false&v=1)](https://streak-stats.demolab.com)<br/>
