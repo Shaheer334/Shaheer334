@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Senior Backend Engineer</b>
+Senior Backend Engineer focused on building fast, reliable APIs and scalable backends in TypeScript/Node.js (NestJS). Strong with SQL schema design & query tuning, REST best practices, caching, and production observability. Comfortable across PostgreSQL, MySQL, MongoDB, Redis, containerized deployments (Docker/Kubernetes), and CI/CD. Practical exposure to Next.js (SSR basics); quick learner for adjacent tech (GraphQL). I value clean architecture, small reversible changes, and systems that are easy to operate.
 
 
 # 💻 Tech Stack:
