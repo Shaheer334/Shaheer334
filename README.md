@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerzeb&theme=github-compact&hide_border=true&v=1)</br>
 ![Stats](https://github-readme-stats-seven-inky-61.vercel.app/api?username=shaheerzeb&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shaheerzeb&theme=dark&hide_border=false&v=1)](https://streak-stats.demolab.com)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=shaheerzeb&theme=dark&hide_border=false&v=1)<br/>
 ![Top Langs](https://github-readme-stats-seven-inky-61.vercel.app/api/top-langs/?username=shaheerzeb&layout=compact&theme=dark&v=2)</br>
 
 
